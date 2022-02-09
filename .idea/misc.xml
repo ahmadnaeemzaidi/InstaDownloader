@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/huawei/instaDownloader/codecanyon-32026221-instagram-downloader-videos-photos-stories-reels-itgv-all-in-one-instagram-download/Source Code/Without in app purchase/Instagram Downloader - AD/app/src/main/res/drawable/native_flag_rounded_corners_shape.xml" value="0.2546875" />
+        <entry key="..\:/huawei/instaDownloader/codecanyon-32026221-instagram-downloader-videos-photos-stories-reels-itgv-all-in-one-instagram-download/Source Code/Without in app purchase/Instagram Downloader - AD/app/src/main/res/layout/native_ad_with_app_download_btn_template.xml" value="0.1598731884057971" />
+        <entry key="..\:/huawei/instaDownloader/source/Instagram Downloader - AD/app/src/main/res/layout-land/native_ad_with_app_download_btn_template.xml" value="0.11022927689594356" />
+        <entry key="..\:/huawei/instaDownloader/source/Instagram Downloader - AD/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/huawei/instaDownloader/source/Instagram Downloader - AD/app/src/main/res/layout/activity_preview.xml" value="0.15307971014492755" />
+        <entry key="..\:/huawei/instaDownloader/source/Instagram Downloader - AD/app/src/main/res/layout/activity_splash.xml" value="0.13858695652173914" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
